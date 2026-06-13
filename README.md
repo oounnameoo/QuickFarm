@@ -1,6 +1,7 @@
 # QuickFarm
 
 [![Build](https://github.com/YOUR_USERNAME/quickfarm/actions/workflows/build.yml/badge.svg)](https://github.com/YOUR_USERNAME/quickfarm/actions/workflows/build.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A lightweight [Paper](https://papermc.io/) plugin that lets you **harvest and instantly replant** crops with a single right-click — no commands, no config, no fuss.
 
